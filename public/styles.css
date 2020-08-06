@@ -1,0 +1,27 @@
+
+body{
+background: url(https://images.freeimages.com/images/large-previews/09c/scrabble-stock-xchng-2-1557501.jpg)
+
+}
+
+h1{
+color: white;
+font-family: Sahitya;
+}
+#content {
+text-align: center;
+padding-top: 20%;
+
+}
+h3{
+font-family: Sahitya;
+}
+nav{
+font-family: Oswald;
+}
+p{
+font-family: Sahitya;
+padding-top 20%;
+text-align: left;
+font-size: large;
+}

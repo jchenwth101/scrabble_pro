@@ -1,0 +1,47 @@
+
+.rownav{
+overflow:visible;
+zoom:1.0;
+}
+
+.rownav:after{
+content:" ";
+display:block;
+clear:both;
+height:0;
+visibility:hidden;
+}
+
+h1{
+color: white;
+font-family: Oswald;
+}
+#content {
+text-align: center;
+padding-top: 20%;
+}
+h3{
+font-family: Oswald;
+}
+nav{
+font-family: Oswald;
+}
+body{
+margin: 0;
+padding: 0;
+background #f1f1f1
+font-family: 'Amatic SC', cursive;
+}
+.text{
+color: white;
+font-size: 500 px;
+position: absolute;
+
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-shadow: 0 0 500px black;
+font-family: 'Amatic SC', cursive;
+text-align: center;
+align-items: center;
+}

@@ -1,0 +1,22 @@
+body
+{
+background-image:url("img/scrabble4.4.jpg");
+
+}
+
+h3{
+color: black;
+font-family: Sahitya;
+}
+#content {
+text-align;
+padding-top: 10%;
+padding-left: 5%;
+font-family: Sahitya;
+}
+h3{
+font-family: Sahitya;
+}
+nav{
+font-family: Oswald;
+}
